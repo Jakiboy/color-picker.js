@@ -1,4 +1,6 @@
-![alt tag](https://raw.githubusercontent.com/philzet/ColorPick.js/master/demo/colorpick-splash.png?token=ALMWaIz-dwolfOXaNQN_dKqgIH5vLglNks5YjJj9wA%3D%3D)
+<a href="https://zetegy.github.io/ColorPick.js/">
+  <img src="https://raw.githubusercontent.com/philzet/ColorPick.js/master/demo/colorpick-splash.png" alt="ColorPicker">
+</p>
 
 # ColorPick.js
 

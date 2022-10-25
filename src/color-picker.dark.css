@@ -1,0 +1,23 @@
+/**
+ * ColorPick jQuery plugin
+ * https://github.com/philzet/ColorPick.js
+ * Copyright (c) 2017-2019 Phil Zet (a.k.a. Phil Zakharchenko)
+ * Licensed under the MIT License
+ */
+
+#color-picker {
+  background: rgba(0, 0, 0, 0.85);
+}
+
+#color-picker span {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.color-custom-hash {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.color-picker-dummy {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px dashed rgba(255, 255, 255, 0.2);
+}
